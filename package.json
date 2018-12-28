@@ -1,0 +1,29 @@
+{
+  "name": "frontend-basis-learn",
+  "version": "1.0.0",
+  "description": "前端基础学习进度规划",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src",
+    "deploy": "bash deploy.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MY729/frontend-basis-learn.git"
+  },
+  "keywords": [
+    "前端",
+    "javascript",
+    "css3",
+    "网络",
+    "数据结构"
+  ],
+  "author": "fanmengyuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MY729/frontend-basis-learn/issues"
+  },
+  "homepage": "https://github.com/MY729/frontend-basis-learn#readme"
+}
