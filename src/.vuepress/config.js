@@ -1,11 +1,11 @@
 module.exports = {
-  title: '林夕梦木子李',
+  title: '前端学习笔记',
   description: '前端基础学习进度规划',
   head: [
     ['link', { rel: 'icon', href: `/img/logo.ico` }]
   ],
   // 注入到当前页面的 HTML <head> 中的标签
-  base: '/frontend/', // 这是部署到github相关的配置 下面会讲
+  base: '/frontend_learn/', // 这是部署到github相关的配置 下面会讲
   markdown: {
     lineNumbers: true // 代码块显示行号
   },
@@ -29,17 +29,24 @@ module.exports = {
       {
         text: '拓展',
         items: [
-          { text: 'GitHub地址', link: 'https://github.com/MY729/frontend-basis-learn'},
+          { text: 'GitHub地址', link: 'https://github.com/MY729/frontend_learn/tree/master'},
           { text: '博客地址', link: 'https://my729.github.io/blog/'},
           { text: '花瓣地址', link: 'http://huaban.com/tj3aawhzdp/'}
         ]
       },
-      { text: '纠正问题/留言/交流', link: 'https://github.com/MY729/frontend-basis-learn/issues/new' }, // 内部链接 以docs为根目录
+      { text: '纠正问题/留言/交流', link: 'https://github.com/MY729/frontend_learn/issues/new' }, // 内部链接 以docs为根目录
     ],
     // 侧边栏
     sidebar: {
       '/JavaScript/': [
         '/JavaScript/', // accumulate文件夹的README.md 不是下拉框形式
+        {
+          title: 'JavaScript高级程序设计',
+          collapsable: false,
+          children: [
+            '/JavaScript/JavaScript高级程序设计/前三章',
+          ]
+        },
       ],
       '/css/': [
         '/css/',
@@ -49,6 +56,7 @@ module.exports = {
       ],
       '/DataStructure/': [
         '/DataStructure/',
+        '链表'
       ]
     }
   }

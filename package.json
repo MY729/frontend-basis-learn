@@ -1,5 +1,5 @@
 {
-  "name": "frontend-basis-learn",
+  "name": "frontend_learn",
   "version": "1.0.0",
   "description": "前端基础学习进度规划",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MY729/frontend-basis-learn.git"
+    "url": "git+https://github.com/MY729/frontend_learn.git"
   },
   "keywords": [
     "前端",
@@ -23,7 +23,7 @@
   "author": "fanmengyuan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MY729/frontend-basis-learn/issues"
+    "url": "https://github.com/MY729/frontend_learn/issues"
   },
-  "homepage": "https://github.com/MY729/frontend-basis-learn#readme"
+  "homepage": "https://github.com/MY729/frontend_learn#readme"
 }
