@@ -56,7 +56,8 @@ module.exports = {
       ],
       '/DataStructure/': [
         '/DataStructure/',
-        '链表'
+        '链表',
+        '栈'
       ]
     }
   }
