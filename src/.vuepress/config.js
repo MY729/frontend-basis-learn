@@ -45,6 +45,7 @@ module.exports = {
           collapsable: false,
           children: [
             '/JavaScript/JavaScript高级程序设计/前三章',
+            '/JavaScript/JavaScript高级程序设计/第四章',
           ]
         },
       ],
