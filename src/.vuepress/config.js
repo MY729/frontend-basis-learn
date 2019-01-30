@@ -46,6 +46,7 @@ module.exports = {
           children: [
             '/JavaScript/JavaScript高级程序设计/前三章',
             '/JavaScript/JavaScript高级程序设计/第四章',
+            '/JavaScript/JavaScript高级程序设计/第五章',
           ]
         },
       ],
@@ -61,6 +62,20 @@ module.exports = {
       ],
       '/internet/': [
         '/internet/',
+        {
+          title: '图解HTTP',
+          collapsable: false,
+          children: [
+            '/internet/图解HTTP/第一章',
+          ]
+        },
+        {
+          title: 'HTTP权威指南',
+          collapsable: false,
+          children: [
+            '/internet/HTTP权威指南/概述',
+          ]
+        },
       ],
       '/DataStructure/': [
         '/DataStructure/',
