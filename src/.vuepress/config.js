@@ -67,6 +67,7 @@ module.exports = {
           collapsable: false,
           children: [
             '/internet/图解HTTP/第一章',
+            '/internet/图解HTTP/第二章',
           ]
         },
         {
