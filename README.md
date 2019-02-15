@@ -3,8 +3,8 @@
 ## javascript
 
 * [js高级程序设计——前三章](https://my729.github.io/frontend_learn/JavaScript/JavaScript高级程序设计/前三章.html)
-* [js高级程序设计——第四章 变量-作用域-内存](https://my729.github.io/frontend_learn/JavaScript/JavaScript高级程序设计/前四章.html)
-* [js高级程序设计——第五章 引用类型](https://my729.github.io/frontend_learn/JavaScript/JavaScript高级程序设计/前五章.html)
+* [js高级程序设计——第四章 变量-作用域-内存](https://my729.github.io/frontend_learn/JavaScript/JavaScript高级程序设计/第四章.html)
+* [js高级程序设计——第五章 引用类型](https://my729.github.io/frontend_learn/JavaScript/JavaScript高级程序设计/第五章.html)
 
 ## css
 
