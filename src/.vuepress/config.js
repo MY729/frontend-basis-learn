@@ -59,6 +59,13 @@ module.exports = {
             '/css/css基础测试整理/【01】移动端两列布局',
           ]
         },
+        {
+          title: '知识点学习',
+          collapsable: false,
+          children: [
+            '/css/知识点学习/position属性',
+          ]
+        },
       ],
       '/internet/': [
         '/internet/',
