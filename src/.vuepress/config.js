@@ -76,6 +76,8 @@ module.exports = {
             '/internet/图解HTTP/第一章',
             '/internet/图解HTTP/第二章',
             '/internet/图解HTTP/第三章',
+            '/internet/图解HTTP/第四章',
+            '/internet/图解HTTP/第五章',
           ]
         },
         {
