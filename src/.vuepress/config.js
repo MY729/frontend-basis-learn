@@ -49,6 +49,14 @@ module.exports = {
             '/JavaScript/JavaScript高级程序设计/第五章',
           ]
         },
+        {
+          title: 'JavaScript高级程序设计',
+          collapsable: false,
+          children: [
+            '/JavaScript/JavaScript设计模式与开发实践/第一部分-基础知识',
+            '/JavaScript/JavaScript设计模式与开发实践/第二部分-设计模式',
+          ]
+        },
       ],
       '/css/': [
         '/css/',
