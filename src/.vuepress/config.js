@@ -47,6 +47,7 @@ module.exports = {
             '/JavaScript/JavaScript高级程序设计/前三章',
             '/JavaScript/JavaScript高级程序设计/第四章',
             '/JavaScript/JavaScript高级程序设计/第五章',
+            '/JavaScript/JavaScript高级程序设计/第六章',
           ]
         },
         {
@@ -72,6 +73,7 @@ module.exports = {
           collapsable: false,
           children: [
             '/css/知识点学习/position属性',
+            '/css/知识点学习/图形绘制',
           ]
         },
       ],
